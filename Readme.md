@@ -1,6 +1,6 @@
 # Account Notebook
 
-Here is a [demo](https://accounting-notebook-react.firebaseapp.com/) of this project.
+Here is a [demo](https://account-notebook-react.firebaseapp.com/) of this project.
 
 ## Installation
 

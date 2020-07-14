@@ -20,7 +20,7 @@ client/.env.test.local
 client/.env.production.local
 
 client/.gitignore
-client/public
+
 
 npm-debug.log*
 yarn-debug.log*

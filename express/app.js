@@ -17,6 +17,7 @@ app.use(
     credentials: true,
     origin: [
       "http://localhost:3001",
+      "https://account-notebook-react.firebaseapp.com"
     ]
   })
 );

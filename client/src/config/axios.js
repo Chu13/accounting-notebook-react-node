@@ -4,7 +4,7 @@ const { REACT_APP_ENV } = process.env;
 
 
 const axiosBack = axios.create({
-  baseURL: 'https://accounting-notebook-react.firebaseapp.com',
+  baseURL: 'https://accounting-notebook.herokuapp.com/',
   // baseURL: REACT_APP_ENV,
   timeout: 300000,
 })
